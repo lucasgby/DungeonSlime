@@ -1,0 +1,49 @@
+# Binários compilados
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de build temporários
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+
+# MonoGame Pipeline Tool
+*.mgcb.tmp
+
+# Arquivos do Rider
+.idea/
+*.sln.iml
+
+# Diretório de pacotes locais
+packages/
+*.nupkg
+
+# Dependências geradas
+*.vs/
+.vscode/
+.vsconfig
+
+# Configuração local
+*.DotSettings.user
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Build do MonoGame
+Content/bin/
+Content/obj/
+
+# Arquivos de log / debug
+*.log
+*.bak
+*.tmp
+
+# Ignorar os arquivos de publicação
+publish/
