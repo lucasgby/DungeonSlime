@@ -20,20 +20,20 @@ Este projeto é ideal para desenvolvedores que estão aprendendo a criar jogos c
 
 ## 📁 Estrutura do Projeto
 
+```plaintext
 DungeoSmile/
 │
-├── Content/ # Assets do jogo (sprites, áudios, fontes)
-│ └── Content.mgcb # Arquivo de build dos assets
+├── Content/                # Assets do jogo (sprites, áudios, fontes)
+│   └── Content.mgcb        # Arquivo de build dos assets
 │
-├── DungeoSmile.csproj # Projeto principal em C#
-├── Game1.cs # Classe principal do jogo
-├── Program.cs # Ponto de entrada
-├── bin/ # Saída da compilação (ignorado pelo Git)
-├── obj/ # Arquivos intermediários (ignorado pelo Git)
-├── README.md # Este arquivo
-└── .gitignore # Arquivos e pastas ignoradas pelo Git
-
-
+├── DungeoSmile.csproj      # Projeto principal em C#
+├── Game1.cs                # Classe principal do jogo
+├── Program.cs              # Ponto de entrada
+├── bin/                    # Saída da compilação (ignorado pelo Git)
+├── obj/                    # Arquivos intermediários (ignorado pelo Git)
+├── README.md               # Este arquivo
+└── .gitignore              # Arquivos e pastas ignoradas pelo Git
+```
 ---
 
 ## 🚀 Como Rodar o Projeto
