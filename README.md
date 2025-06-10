@@ -55,6 +55,8 @@ DungeoSmile/
 
 3. Ou abra o .sln no Visual Studio e pressione F5.
 
+---
+
 ✨ Funcionalidades Implementadas
  Estrutura básica de jogo com MonoGame
 
@@ -68,9 +70,7 @@ DungeoSmile/
 
  Interface de usuário (HUD)
 
-📚 Créditos
-Baseado na documentação oficial da MonoGame.
-
 ---
 
-Se quiser que eu personalize com seu nome, GitHub, funcionalidades específicas ou adicionar imagens/gifs do jogo depois, posso fazer isso também. Deseja que eu adicione um botão de build status, preview de tela ou instruções de publicação?
+📚 Créditos
+Baseado na documentação oficial da MonoGame.
